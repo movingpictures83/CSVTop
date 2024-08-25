@@ -1,0 +1,2 @@
+Prefix plugins/CSVTop/example/
+Plugin CSVTop inputfile parameters.txt outputfile otu_table.final.top25.csv
